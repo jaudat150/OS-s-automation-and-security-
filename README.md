@@ -25,3 +25,9 @@ This mimics behavior used by malware. **Use only for educational or ethical purp
 ### ▶️ How to Run
 ```bash
 python hello_world_persistence.py
+
+### After running:
+
+Restart your computer.
+You should see the message appear on login.
+Press any key to close the console window (remove msvcrt.getch() if silent execution is desired).
